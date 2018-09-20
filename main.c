@@ -1,11 +1,11 @@
-#include<iostream>
+#include<stdio.h>
 
 int main()
 {
   int i;
   for (i = 0; i < 32; i ++)
   {
-    printt("Helloworld\n);
+    printf("Hello Holberton\n");
    }
    return 0;
   }
